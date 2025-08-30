@@ -1,5 +1,5 @@
 # Copper - Image Copy Helper 📋
-<img src="copperlogo.png" alt="Copper logo" width="300"/>
+<img src="readmestuff/copperlogo.png" alt="Copper logo" width="300"/>
 
 ## Features
 - Instantly copies any image to the clipboard
