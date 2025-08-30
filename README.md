@@ -10,6 +10,10 @@
 
 ## Videos
 
+Example Use Case:
+
+To quickly pass images to an existing ChatGPT conversation
+
 ![Copy Image](readmestuff/copyimage.gif)
 ![Copy Image](readmestuff/copylink1.gif)
 ![Copy Image](readmestuff/copylink2.gif)
