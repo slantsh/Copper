@@ -1,4 +1,4 @@
-# Copper - Image Copy Helper (Android 14+) 📋
+# Copper - Image Copy Helper 📋
 <img src="copperlogo.png" alt="Copper logo" width="300"/>
 
 ## Features
@@ -9,6 +9,11 @@
 - Does NOT work with sites that have protection like Facebook or Instagram
 
 ## Videos
+
+![Copy Image](readmestuff/copyimage.gif)
+![Copy Image](readmestuff/copylink1.gif)
+![Copy Image](readmestuff/copylink2.gif)
+
 
 ## Getting started
 
