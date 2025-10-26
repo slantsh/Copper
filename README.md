@@ -27,7 +27,7 @@ Android 14 or newer
 
 ### Installation and usage
 
-Grab the apk from [https://github.com/slantsh/Copper/releases/](here.)
+Grab the apk from [https://github.com/slantsh/Copper/releases/download/v1.1.0/Copper.apk](here.)
 
 Use the "Share..." button and choose Copper to copy the image.
 
